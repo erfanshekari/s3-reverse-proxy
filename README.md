@@ -1,1 +1,4 @@
-# Stream S3 Objects By Node.js Server
+# Streaming Amazon S3 Objects From Node.js Server
+
+
+### `npm start`
