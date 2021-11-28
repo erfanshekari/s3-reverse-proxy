@@ -5,7 +5,7 @@ Don't use Cloundfront, use this instead. cheap solution to share Private-ACL Obj
 new s3ReverseProxy(port, {...AWSClientConfig}, headers=> {//authentication function})
 ~~~
 # requirements
-Virtual enviroment varibles:
+Virtual environment variables:
 ~~~shell
 export STORAGE_ACCESS=<YOUR-S3-CLIENT-STORAGE-KEY>
 export STORAGE_SECRET=<YOUR-S3-CLIENT-STORAGE-SECRET>
