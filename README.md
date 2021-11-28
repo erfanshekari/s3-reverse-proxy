@@ -1,4 +1,4 @@
 # Streaming Amazon S3 Objects From Node.js Server
 
-
-### `npm start`
+Don't use Cloundfont, use this instead
+you also can check request header for authentication !
